@@ -24,4 +24,3 @@ steps:
     highSeverityThreshold: '2'
     failOnMediumSeverityThreshold: false
     mediumSeverityThreshold: '4'
-    
